@@ -28,3 +28,13 @@ I will then extract the audio features of the songs (i.e. acousticness, liveness
 features to build a logistic regression model to classify a song as one I’d like or not.  I will use 80% of the data as 
 training data, while the remaining 20% will be for testing.
 
+
+IMPORTANT FILES
+-Consolidated Report
+-Deck
+-Code
+  - Data Wrangling
+  - Data Story
+  - EDA
+  - In Depth Analysis
+
